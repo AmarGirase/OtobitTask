@@ -1,0 +1,6 @@
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\MODEL\bin\Debug\MODEL.dll
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\MODEL\bin\Debug\MODEL.pdb
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\MODEL\obj\Debug\MODEL.dll
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\MODEL\obj\Debug\MODEL.pdb

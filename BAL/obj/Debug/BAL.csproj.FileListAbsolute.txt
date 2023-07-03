@@ -1,0 +1,11 @@
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\BAL\bin\Debug\BAL.dll
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\BAL\bin\Debug\BAL.pdb
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\BAL\bin\Debug\DAL.dll
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\BAL\bin\Debug\MODEL.dll
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\BAL\bin\Debug\DAL.pdb
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\BAL\bin\Debug\MODEL.pdb
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\BAL\obj\Debug\BAL.dll
+C:\Users\amar girase\OneDrive\Desktop\MyTaskOtobit\Task_Otobit\BAL\obj\Debug\BAL.pdb
